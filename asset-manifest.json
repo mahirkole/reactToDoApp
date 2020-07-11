@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/reactToDoApp/static/css/main.5f361e03.chunk.css",
-    "main.js": "/reactToDoApp/static/js/main.1514bf5e.chunk.js",
-    "main.js.map": "/reactToDoApp/static/js/main.1514bf5e.chunk.js.map",
-    "runtime-main.js": "/reactToDoApp/static/js/runtime-main.f5fc6bfa.js",
-    "runtime-main.js.map": "/reactToDoApp/static/js/runtime-main.f5fc6bfa.js.map",
-    "static/js/2.966575f5.chunk.js": "/reactToDoApp/static/js/2.966575f5.chunk.js",
-    "static/js/2.966575f5.chunk.js.map": "/reactToDoApp/static/js/2.966575f5.chunk.js.map",
-    "index.html": "/reactToDoApp/index.html",
-    "precache-manifest.b2ad55dc5d081f4e76a74d36d99b6786.js": "/reactToDoApp/precache-manifest.b2ad55dc5d081f4e76a74d36d99b6786.js",
-    "service-worker.js": "/reactToDoApp/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/reactToDoApp/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.966575f5.chunk.js.LICENSE.txt": "/reactToDoApp/static/js/2.966575f5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/reactToDoApp/static/media/logo.5d5d9eef.svg"
+    "main.css": "/mahirkole/reactToDoApp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mahirkole/reactToDoApp/static/js/main.7d4af3fe.chunk.js",
+    "main.js.map": "/mahirkole/reactToDoApp/static/js/main.7d4af3fe.chunk.js.map",
+    "runtime-main.js": "/mahirkole/reactToDoApp/static/js/runtime-main.944d2db0.js",
+    "runtime-main.js.map": "/mahirkole/reactToDoApp/static/js/runtime-main.944d2db0.js.map",
+    "static/js/2.966575f5.chunk.js": "/mahirkole/reactToDoApp/static/js/2.966575f5.chunk.js",
+    "static/js/2.966575f5.chunk.js.map": "/mahirkole/reactToDoApp/static/js/2.966575f5.chunk.js.map",
+    "index.html": "/mahirkole/reactToDoApp/index.html",
+    "precache-manifest.0bd01dbeac397d8d0da6b044c39ad9e3.js": "/mahirkole/reactToDoApp/precache-manifest.0bd01dbeac397d8d0da6b044c39ad9e3.js",
+    "service-worker.js": "/mahirkole/reactToDoApp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mahirkole/reactToDoApp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.966575f5.chunk.js.LICENSE.txt": "/mahirkole/reactToDoApp/static/js/2.966575f5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mahirkole/reactToDoApp/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f5fc6bfa.js",
+    "static/js/runtime-main.944d2db0.js",
     "static/js/2.966575f5.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.1514bf5e.chunk.js"
+    "static/js/main.7d4af3fe.chunk.js"
   ]
 }
