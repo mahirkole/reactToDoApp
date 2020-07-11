@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mahirkole/reactToDoApp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mahirkole/reactToDoApp/static/js/main.7d4af3fe.chunk.js",
+    "main.js.map": "/mahirkole/reactToDoApp/static/js/main.7d4af3fe.chunk.js.map",
+    "runtime-main.js": "/mahirkole/reactToDoApp/static/js/runtime-main.944d2db0.js",
+    "runtime-main.js.map": "/mahirkole/reactToDoApp/static/js/runtime-main.944d2db0.js.map",
+    "static/js/2.966575f5.chunk.js": "/mahirkole/reactToDoApp/static/js/2.966575f5.chunk.js",
+    "static/js/2.966575f5.chunk.js.map": "/mahirkole/reactToDoApp/static/js/2.966575f5.chunk.js.map",
+    "index.html": "/mahirkole/reactToDoApp/index.html",
+    "precache-manifest.0bd01dbeac397d8d0da6b044c39ad9e3.js": "/mahirkole/reactToDoApp/precache-manifest.0bd01dbeac397d8d0da6b044c39ad9e3.js",
+    "service-worker.js": "/mahirkole/reactToDoApp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mahirkole/reactToDoApp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.966575f5.chunk.js.LICENSE.txt": "/mahirkole/reactToDoApp/static/js/2.966575f5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mahirkole/reactToDoApp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.944d2db0.js",
+    "static/js/2.966575f5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7d4af3fe.chunk.js"
+  ]
+}
